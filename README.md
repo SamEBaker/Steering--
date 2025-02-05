@@ -3,9 +3,9 @@
 
  # [Play]()_
  
-Pink - Arrive
-Green - Path Follow
-Aqua & Blue - Obstacle Avoid
-Orange - Wanderer
-Red - Seeker
-Purple - Kinematic
+Pink - Arrive <br/>
+Green - Path Follow <br/>
+Aqua & Blue - Obstacle Avoid <br/>
+Orange - Wanderer <br/>
+Red - Seeker <br/>
+Purple - Kinematic <br/>
