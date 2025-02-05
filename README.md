@@ -1,7 +1,7 @@
 # Steering++
  ⚡ Obstacle Course ⚡ 
 
- # [Play]()_
+ # [Play](https://samebaker.github.io/Steering--/)
  
 Pink - Arrive <br/>
 Green - Path Follow <br/>
